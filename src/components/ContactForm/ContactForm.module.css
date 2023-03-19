@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 300px;
+}
+
+.contactFormLabel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactFormInput {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.contactFormButton {
+  padding: 5px;
+  cursor: pointer;
+}

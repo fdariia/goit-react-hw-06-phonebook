@@ -1,0 +1,19 @@
+.contactList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 300px;
+  padding: 0;
+  list-style: none;
+}
+
+.contactListItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactListButton {
+  padding: 5px 10px;
+  cursor: pointer;
+}
